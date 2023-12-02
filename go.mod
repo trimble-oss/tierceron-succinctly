@@ -1,4 +1,4 @@
-module github.com/mrjrieke/succinctly
+module github.com/trimble-oss/tierceron-succinctly
 
 go 1.21.4
 
